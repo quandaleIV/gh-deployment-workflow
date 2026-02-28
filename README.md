@@ -21,3 +21,4 @@ This project is intended to help understand the fundamentals of CI/CD and automa
 ## Live Website
 
 The deployed website can be accessed at:
+https://quandaleiv.github.io/gh-deployment-workflow/
